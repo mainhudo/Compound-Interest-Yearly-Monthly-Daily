@@ -1,2 +1,2 @@
 # Compound-Interest-Yearly-Monthly-Daily
-Using Java 
+My own code. Using Java to convert financial formulas
